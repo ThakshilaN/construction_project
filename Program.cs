@@ -10,6 +10,7 @@ namespace MySqlConnectivity
     {
         /// <summary>
         /// The main entry point for the application.
+        /// new comment
         /// </summary>
         [STAThread]
         static void Main()
